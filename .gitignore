@@ -10,9 +10,6 @@ build/
 .idea/
 *.swp
 *.swo
-.vscode/
-!.vscode/settings.json
-!.vscode/extensions.json
 
 # OS
 .DS_Store
@@ -36,3 +33,7 @@ coverage/
 *.tmp
 *.temp
 .cache/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
